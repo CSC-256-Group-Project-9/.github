@@ -17,7 +17,8 @@
  - [Live API](https://group-9-api.vercel.app/)
 
 ## Roles
-
+### Project Manager
+ - ## Nathaniel Leach
 ### Documentation Writer
  - Nathaniel Leach - ncleach@my.waketech.edu
  - Stefan Slaczka
